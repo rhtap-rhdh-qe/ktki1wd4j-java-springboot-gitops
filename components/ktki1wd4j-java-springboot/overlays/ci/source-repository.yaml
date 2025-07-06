@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ktki1wd4j-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ktki1wd4j-java-springboot
